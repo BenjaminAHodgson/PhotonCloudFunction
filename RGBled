@@ -2,10 +2,6 @@ int blue = D2;
 int green = D1;
 int red = D0;
 
-
-
-
-
 void setup() {
     
     pinMode(red, OUTPUT);
